@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Snorri FR5",
+    "type": "Fusion rifle",
+    "imagePath": "snorri_fr5.jpg",
+    "traits": {
+      "column1": "Full Bore",
+      "column2": "Liquid coils",
+      "column3": "Stats for all",
+      "column4": "High impact reserves",
+      "origin": "Omolon fluid dynamics"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Shayura's wrath",
+    "type": "Submachine gun",
+    "imagePath": "shayuras_wrath.jpg'",
+    "traits": {
+      "column1": "Corkscrew rifling",
+      "column2": "Ricochet rounds",
+      "column3": "Killing wind",
+      "column4": "Target lock",
+      "origin": "Alacricity"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rose",
+    "type": "hand cannon",
+    "imagePath": "Rose.jpg",
+    "traits" : {
+      "column1": "Full Bore",
+      "column2": "Accurized rounds",
+      "column3": "Slideshot",
+      "column4": "Explosive payload",
+      "origin": "Textured grip"
+    }
+  }
+
+]
